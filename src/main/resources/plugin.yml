@@ -1,0 +1,7 @@
+name: LDWelcome
+author: ConderFix
+description: Сообщение при первом заходе
+website: vk.com/conderfix
+version: '${version}'
+main: me.leddev.ldwelcome.LDWelcome
+api-version: '1.16'
